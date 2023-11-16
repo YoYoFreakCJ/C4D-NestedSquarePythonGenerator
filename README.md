@@ -32,6 +32,10 @@ To solve these weird subdivisions you need quads. You could easily create this g
 ![image](https://github.com/YoYoFreakCJ/C4D-NestedSquarePythonGenerator/assets/59722190/ed5b4455-4dfb-403b-92b1-3b96ff17b157)
 ![image](https://github.com/YoYoFreakCJ/C4D-NestedSquarePythonGenerator/assets/59722190/989033c4-bbc6-4c71-bd9d-531f37abfd3a)
 
+![image](https://github.com/YoYoFreakCJ/C4D-NestedSquarePythonGenerator/assets/59722190/d3d753f9-0947-4edd-8f0d-8b10b0354221)
+![image](https://github.com/YoYoFreakCJ/C4D-NestedSquarePythonGenerator/assets/59722190/134c3545-3ea7-4bce-a4a6-ebb7db971c8b)
+
+
 Note that the object is Z- oriented.
 
 # Disclaimer
