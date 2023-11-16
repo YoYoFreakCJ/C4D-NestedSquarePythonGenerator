@@ -16,6 +16,8 @@ b. Change the line where the radius is defined to your desired hard coded radius
 
 I suggest creating the user data, then saving the python generator as an asset to your asset database. You can use the provided NestedSquareIcon.png if you wish.
 
+![chrome_uwBNKjNOJF](https://github.com/YoYoFreakCJ/C4D-NestedSquarePythonGenerator/assets/59722190/b0a98934-81c6-4b75-9b86-f87a4e4f3628)
+
 ## What This Solves
 
 Take this example:
